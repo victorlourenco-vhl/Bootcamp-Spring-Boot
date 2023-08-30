@@ -1,4 +1,4 @@
-package com.sistema;
+package com.sistema.resources;
 
 import java.util.ArrayList;
 import java.util.List;
